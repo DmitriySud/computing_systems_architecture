@@ -53,6 +53,8 @@ section         '.code' code readable executable
         cinvoke free, [arrayA_ptr]			; Освобождение памяти и выход 
 	cinvoke free, [arrayB_ptr]
 
+	cinvoke _getch
+
         invoke  ExitProcess, 0
 
 
@@ -252,7 +254,7 @@ endp
 
 section         '.data' data readable writeable
  	input 			db	'Enter size of array : ',0
-	output 			db 	'Entered array : ',0
+	output 			db 	'Array : ',0
 	separator		db	', ',0
         ioDigitTemp         	db      '%d',0
 	outStringTemp		db 	'%s',0
