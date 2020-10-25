@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.15)  25 OCT 2020 21:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.15)  25 OCT 2020 22:03
 entering extended mode
 **s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.tex
 (s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.tex
@@ -894,16 +894,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--90
 
  []
 
-
-Overfull \hbox (36.47813pt too wide) in paragraph at lines 92--98
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--98
-
- []
-
 [3]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 109.
  ("C:\Users\dmitr\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmtt.fd"
@@ -1012,7 +1002,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  59i,8n,75p,875b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\dmitr\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1000.pk> <C:\Users\dmitr\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\dmitr\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\dmitr\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\dmitr\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk>
-Output written on s:/SoftCraft\sources\CONSOLE\MicroProject_1\TeX\task.pdf (8 pages, 183361 bytes).
+Output written on s:/SoftCraft\sources\CONSOLE\MicroProject_1\TeX\task.pdf (8 pages, 183380 bytes).
 PDF statistics:
  393 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

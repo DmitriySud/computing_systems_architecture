@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1603651304 "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.tex" "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.pdf" "task" 1603651319
+["pdflatex"] 1603652625 "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.tex" "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.pdf" "task" 1603652741
   "C:/Users/dmitr/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk" 1581621149 23468 c1a476893e574e56f5a285cc20397a5e ""
   "C:/Users/dmitr/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1603583680 29472 e618df82c980cc49e6d2910ef9e8d33b ""
   "C:/Users/dmitr/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk" 1581619722 36852 7b94fdfa96efc16c15f747edd150525b ""
@@ -144,15 +144,15 @@
   "picks/Test_3.png" 1603650370 19683 076163a0b0b116ab6d16e57f55bb65fc ""
   "picks/Test_4.png" 1603650504 25942 cbc69834a9e2bbd4f463b5013ce27f57 ""
   "picks/Test_5.png" 1603650647 11326 620fb58bac0a76a83c8824c67379fa5f ""
-  "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.aux" 1603651309 1391 a2685ff5792425c3b4ce4e63ba8ebbdf ""
-  "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.tex" 1603651317 11411 31f0868ae7c0a7cd1446d694fc9f2166 ""
-  "task.aux" 1603651309 1391 a2685ff5792425c3b4ce4e63ba8ebbdf "pdflatex"
-  "task.tex" 1603651317 11411 31f0868ae7c0a7cd1446d694fc9f2166 ""
-  "task.toc" 1603651309 845 b76d94b3762d1e1bfb478f26d4e81362 "pdflatex"
+  "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.aux" 1603652634 1391 a2685ff5792425c3b4ce4e63ba8ebbdf ""
+  "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.tex" 1603652738 11388 9fb67dc987a524c529aeffddd1869eb9 ""
+  "task.aux" 1603652634 1391 a2685ff5792425c3b4ce4e63ba8ebbdf "pdflatex"
+  "task.tex" 1603652738 11388 9fb67dc987a524c529aeffddd1869eb9 ""
+  "task.toc" 1603652634 845 b76d94b3762d1e1bfb478f26d4e81362 "pdflatex"
   (generated)
-  "task.pdf"
   "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.pdf"
+  "task.log"
+  "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.log"
   "task.toc"
   "task.aux"
-  "s:/SoftCraft/sources/CONSOLE/MicroProject_1/TeX/task.log"
-  "task.log"
+  "task.pdf"
