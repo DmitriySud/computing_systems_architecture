@@ -1,0 +1,11 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Постановка задачи}{2}%
+\contentsline {section}{\numberline {2}Описание алгоритма}{3}%
+\contentsline {subsection}{\numberline {2.1}Описание методов}{3}%
+\contentsline {subsubsection}{\numberline {2.1.1}strLen}{3}%
+\contentsline {subsubsection}{\numberline {2.1.2}findInStr}{3}%
+\contentsline {subsubsection}{\numberline {2.1.3}transformString}{3}%
+\contentsline {subsection}{\numberline {2.2}Формат входных данных}{3}%
+\contentsline {subsection}{\numberline {2.3}Формат выходных данных}{3}%
+\contentsline {section}{\numberline {3}Приложение 1. Код программы}{4}%
+\contentsline {section}{\numberline {4}Приложение 2. Тестирование программы}{6}%

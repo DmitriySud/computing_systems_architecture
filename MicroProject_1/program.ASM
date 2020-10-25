@@ -6,6 +6,7 @@ format          PE console 4.0
 entry           start
 
 include         'win32a.inc' 
+
  
 section         '.code' code readable executable
  
@@ -82,6 +83,9 @@ proc transformString uses eax ecx esi, string
 	stdcall strLen, [string]	;eax = len + 1
 	mov ecx, eax                    ;ecx = len + 1
 	dec ecx                         ;ecx = len
+
+	test ecx, ecx                   ;if string empty jump to the end
+	je .exit
 	
 	mov esi, [string]               ;set to esi adress of given string
 	cld                             ;set DF for lodsb command
@@ -102,6 +106,7 @@ proc transformString uses eax ecx esi, string
 @@:
 	loop .forLoop
 
+.exit:
 	ret
 endp
 
@@ -127,23 +132,21 @@ library         kernel32,'KERNEL32.DLL',\
                 msvcrt, 'msvcrt.dll'
  
 import          kernel32,\ 
-                GetStdHandle,'GetStdHandle',\ 
-                WriteConsole,'WriteConsoleA',\
-                ReadConsole,'ReadConsoleA',\
                 ExitProcess,'ExitProcess'
-import msvcrt,\
-       __getmainargs,'__getmainargs',\
-       fopen,'fopen',\
-       fseek,'fseek',\
-       ftell,'ftell',\
-       malloc,'malloc',\
-       free,'free',\
-       fread,'fread',\
-       fclose,'fclose',\
-       printf,'printf',\
-       scanf,'scanf',\
-       _getch,'_getch',\
-       puts,'puts'
+
+import		msvcrt,\
+		__getmainargs,'__getmainargs',\
+		fopen,'fopen',\
+		fseek,'fseek',\
+      		ftell,'ftell',\
+	        malloc,'malloc',\
+	        free,'free',\
+       		fread,'fread',\
+       		fclose,'fclose',\
+       		printf,'printf',\
+       		scanf,'scanf',\
+       		_getch,'_getch',\
+       		puts,'puts'
 
 
 
