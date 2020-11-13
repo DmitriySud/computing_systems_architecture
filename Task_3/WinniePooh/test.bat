@@ -1,0 +1,1 @@
+FOR /L %%a IN (0,1,9) DO WinniePooh.exe input\test%%a.txt output\ans%%a.txt

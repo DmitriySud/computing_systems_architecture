@@ -1,0 +1,10 @@
+﻿  Source.c
+S:\SoftCraft\sources\CONSOLE\Task_3\WinniePooh\Source.c(76,10): warning C4047: return: "void *" отличается по уровням косвенного обращения от "int"
+S:\SoftCraft\sources\CONSOLE\Task_3\WinniePooh\Source.c(99,23): warning C4018: <: несоответствие типов со знаком и без знака
+S:\SoftCraft\sources\CONSOLE\Task_3\WinniePooh\Source.c(101,24): warning C4018: <: несоответствие типов со знаком и без знака
+S:\SoftCraft\sources\CONSOLE\Task_3\WinniePooh\Source.c(110,23): warning C4018: <: несоответствие типов со знаком и без знака
+S:\SoftCraft\sources\CONSOLE\Task_3\WinniePooh\Source.c(121,23): warning C4018: <: несоответствие типов со знаком и без знака
+S:\SoftCraft\sources\CONSOLE\Task_3\WinniePooh\Source.c(124,32): warning C4018: <: несоответствие типов со знаком и без знака
+S:\SoftCraft\sources\CONSOLE\Task_3\WinniePooh\Source.c(144,23): warning C4018: <: несоответствие типов со знаком и без знака
+S:\SoftCraft\sources\CONSOLE\Task_3\WinniePooh\Source.c(155,23): warning C4018: <: несоответствие типов со знаком и без знака
+  WinniePooh.vcxproj -> S:\SoftCraft\sources\CONSOLE\Task_3\Debug\WinniePooh.exe
