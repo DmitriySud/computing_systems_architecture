@@ -8,7 +8,7 @@
 #include <unistd.h>
 
 // Состояния программиста.
-enum StateE {
+enum class StateE {
     START,
     WRITING,
     DEBUGING,
@@ -16,7 +16,6 @@ enum StateE {
     PUSHING_TASK,
     WAIT_TASK,
     CHOOSE_TASK,
-    COMPLETE,
     END_TASKS,
     END_WORK,
     NULL_STATE
@@ -260,7 +259,7 @@ int main(int argc, char *argv[]) {
     for (int i = 0; i < 3; i++){
         std::cin >> tasksAmt[i]; 
         if (tasksAmt[i] < 1 || tasksAmt[i] > 10){
-            std::cout << std::endl << "Incorrect tasks amount";
+            std::cout << std::endl << "Incorrect tasks amount" << std::endl;
             return 0;
         }
     }
